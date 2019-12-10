@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+body
+{
+	font-family: Arial, Helvetica, Verdana, TimesNewRoman, sans-serif;
+	background-color: #DACFE5;
+	margin: 50px;
+	text-align: left;
+	color: #523819;
+}
+
+h2
+{
+	font-size: 140%;
+	color: #003427;
+	margin: 5%;
+}
+
+table, table *
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th
+{
+	font-size: 150%;
+	color: green;
+	text-align: center;
+}
+
+td
+{
+	font-size: 130%;
+	font-family: Verdana;
+}
+
+td.cell
+{
+	color: yellow;
+	padding: 5px;
+	text-indent: 5px;
+}
+
+p
+{
+	text-align: center;
+}
+
+span.one
+{
+	font-size: 120%;
+	font-weight: bold;
+	font-family: Verdana;
+	color: brown;
+	text-indent: 5px;
+	display: block;
+}
+
+span.two
+{
+	margin: 1%;
+	font-weight: bold;
+	font-family: Arial;
+	color: navy;
+	display: block;
+}
+
+span.three
+{
+	margin: 3%;
+	font-family: Helvetica;
+	color: purple;
+}
+
+span.four
+{
+	margin: 3%;
+	font-family: TimesNewRoman;
+	color: blue;
+	line-height: 30px;
+}

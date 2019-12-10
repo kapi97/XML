@@ -1,0 +1,14 @@
+<!DOCTYPE european_countries
+[
+<!ELEMENT european_countries (language_family+)>
+<!ELEMENT language_family (country,capital,(calling_code|currency|picture)*)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT calling_code (#PCDATA)>
+<!ELEMENT currency (#PCDATA)>
+<!ELEMENT picture (#PCDATA)>
+
+<!ATTLIST language_family type CDATA #REQUIRED>
+<!ATTLIST country original_name CDATA #IMPLIED>
+<!ATTLIST capital domain_name CDATA #IMPLIED>
+]>

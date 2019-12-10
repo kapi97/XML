@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE european_countries SYSTEM "european_countries.dtd">
+<?xml-stylesheet type="text/xsl" href="european_countries.xslt"?>
+
+<european_countries>
+
+<language_family type="Germanic">
+	<country original_name="Deutschland">Germany</country>
+	<capital domain_name=".de">Berlin</capital>
+	<calling_code>+49</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/5/54/Germany_CIA_map_PL.png</picture>
+</language_family>
+
+<language_family type="Slavic">
+	<country original_name="Polska">Poland</country>
+	<capital domain_name=".pl">Warsaw</capital>
+	<calling_code>+48</calling_code>
+	<currency>PLN</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/9/9d/Poland_CIA_map_PL.png</picture>
+</language_family>
+
+<language_family type="Romance">
+	<country original_name="France">French</country>
+	<capital domain_name=".fr">Paris</capital>
+	<calling_code>+33</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/f/fc/Fr-map.png</picture>
+</language_family>
+
+<language_family type="Germanic">
+	<country original_name="Österreich">Austria</country>
+	<capital domain_name=".at">Vienna</capital>
+	<calling_code>+43</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/6/65/Au-map_%282004%29.png</picture>
+</language_family>
+
+<language_family type="Slavic">
+	<country original_name="Česko">Czechia</country>
+	<capital domain_name=".cz">Prague</capital>
+	<calling_code>+420</calling_code>
+	<currency>CZK</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/4/4e/Czech_Republic-CIA_WFB_Map.png</picture>
+</language_family>
+
+<language_family type="Romance">
+	<country original_name="España">Spain</country>
+	<capital domain_name=".es">Madrid</capital>
+	<calling_code>+34</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/1/10/Sp-map.png</picture>
+</language_family>
+
+<language_family type="Germanic">
+	<country original_name="Nederland">Netherlands</country>
+	<capital domain_name=".nl">Amsterdam</capital>
+	<calling_code>+31</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/0/03/Netherlands-CIA_WFB_Map-10-10-10.png</picture>
+</language_family>
+
+<language_family type="Slavic">
+	<country original_name="Slovensko">Slovakia</country>
+	<capital domain_name=".sk">Bratislava</capital>
+	<calling_code>+421</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/7/7d/Mapa_Slovenska.PNG</picture>
+</language_family>
+
+<language_family type="Romance">
+	<country original_name=" Italia">Italy</country>
+	<capital domain_name=".it">Rome</capital>
+	<calling_code>+39</calling_code>
+	<currency>EUR</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Map_of_Italy-it-2.svg/492px-Map_of_Italy-it-2.svg.png</picture>
+</language_family>
+
+<language_family type="Germanic">
+	<country original_name="Danmark">Denmark</country>
+	<capital domain_name=".dk">Copenhagen</capital>
+	<calling_code>+45</calling_code>
+	<currency>DKK</currency>
+	<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Denmark_Polish.svg/764px-Denmark_Polish.svg.png</picture>
+</language_family>
+
+</european_countries>
